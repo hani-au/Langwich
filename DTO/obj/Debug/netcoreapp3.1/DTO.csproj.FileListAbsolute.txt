@@ -1,0 +1,58 @@
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+F:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+F:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+F:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+M:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+M:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+M:\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+M:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+M:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+M:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+M:\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+G:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

@@ -1,0 +1,235 @@
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\BL.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\DAL.dll
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\BL.pdb
+M:\גמור\Project\Project\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\BL.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\DAL.dll
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\BL.pdb
+F:\גמור\Project\Project\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+F:\גמור\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\BL.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\DAL.dll
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\BL.pdb
+M:\מעודכן א אייר\Project\Project\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+M:\מעודכן א אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\BL.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\DAL.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\BL.pdb
+M:\‏‏מעודכן ז אייר -\Project\Project\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+M:\‏‏מעודכן ז אייר -\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.exe
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.deps.json
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Project.pdb
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\BL.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\DAL.dll
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\BL.pdb
+M:\ח אייר\Project\Project\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.csproj.CopyComplete
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.dll
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.pdb
+M:\ח אייר\Project\Project\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache

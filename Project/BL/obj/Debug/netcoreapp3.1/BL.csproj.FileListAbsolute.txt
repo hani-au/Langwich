@@ -1,0 +1,167 @@
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\גמור\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\גמור\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\גמור\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\גמור\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\גמור\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\גמור\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+F:\גמור\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+F:\גמור\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\גמור\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\גמור\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+F:\גמור\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\מעודכן א אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\מעודכן א אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\מעודכן א אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\מעודכן א אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\מעודכן א אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\מעודכן א אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\‏‏מעודכן ז אייר -\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\‏‏מעודכן ז אייר -\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\‏‏מעודכן ז אייר -\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\‏‏מעודכן ז אייר -\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\‏‏מעודכן ז אייר -\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\‏‏מעודכן ז אייר -\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\ח אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\ח אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\ח אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\ח אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\ח אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\ח אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+D:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.dll
+F:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\BL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\BL\obj\Debug\netcoreapp3.1\BL.pdb

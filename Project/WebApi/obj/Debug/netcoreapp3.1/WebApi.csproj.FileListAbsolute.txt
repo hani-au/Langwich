@@ -1,0 +1,201 @@
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\BL.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\DAL.dll
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\BL.pdb
+M:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+M:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\BL.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\DAL.dll
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\BL.pdb
+F:\גמור\Project\WebApi\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+F:\גמור\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Humanizer.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\BL.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\DAL.dll
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\BL.pdb
+M:\ח אייר\Project\WebApi\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApi.styles.css
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+M:\ח אייר\Project\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache

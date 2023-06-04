@@ -1,0 +1,380 @@
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\tziviLevi.dll
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\tziviLevi.pdb
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiProject.styles.css
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+M:\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+M:\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\JSON\tree.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\JSON\tree.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\tziviLevi.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\tziviLevi.pdb
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiProject.styles.css
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\JSON\tree.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\tziviLevi.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\tziviLevi.pdb
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csprojAssemblyReference.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\פרויקט גמר\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.dll
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.pdb
+M:\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiProject.styles.css
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+M:\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csprojAssemblyReference.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.pdb
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csprojAssemblyReference.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.pdb
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiProject.styles.css
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DTO.dll
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DTO.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DTO.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\BL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.xml
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiProject.styles.css
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiProject.styles.css
+F:\אונקי\חני אוירבך ריאקט\טו אייר\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csprojAssemblyReference.cache

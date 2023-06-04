@@ -1,0 +1,200 @@
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.exe
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.pdb
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\BL.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DAL.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DTO.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\BL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DTO.pdb
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.dll
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.pdb
+M:\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.exe
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\BL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.exe
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Program.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\BL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DAL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DTO.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\BL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\bin\Debug\netcoreapp3.1\DTO.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Program.exe
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Program.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Program.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\BL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\DTO.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\BL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\bin\Debug\netcoreapp3.1\DTO.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache

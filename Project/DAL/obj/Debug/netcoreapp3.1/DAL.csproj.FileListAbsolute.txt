@@ -1,0 +1,134 @@
+M:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+M:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+M:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+M:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+M:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+F:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\גמור\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\גמור\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+M:\ח אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+M:\ח אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+M:\ח אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+M:\ח אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\ח אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+M:\ח אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+M:\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+M:\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+M:\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+M:\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+M:\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+M:\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+M:\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+M:\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+M:\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\טו אייר-20220517T191305Z-001\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DTO.dll
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DTO.pdb
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+M:\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+G:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+F:\אונקי\חני אוירבך ריאקט\טו אייר\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+F:\אונקי\פרויקט גמר\פרויקט אלגוריתם\Project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
